@@ -8,7 +8,7 @@ const searchDropEl = document.querySelector(".search__drop")
 
 const BASE_URL = "https://dummyjson.com"
 
-const perPageCount = 10
+const perPageCount = 8
 let offset = 0
 let productEndpoint = "/products"
 
